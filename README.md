@@ -48,4 +48,6 @@ public void showAt(int pos) {
     private Paint paint;//set get
     private int rowHeight;//get
     private int rowSpan;//set get
- 
+ # 我做的Demo的视频
+ 可以下载下来参考。
+ [Demo的视频](https://github.com/mafanwei/ReaderView/blob/master/Demo%E8%A7%86%E9%A2%91.mp4 "嘿嘿")
