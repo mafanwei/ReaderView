@@ -12,5 +12,7 @@
 明确了问题，就明白代码怎么写了。
 
 # 效果图
-这是我用这个类做出来的demo
-[![观看视频](https://github.com/mafanwei/ReaderView/blob/master/Demo%E6%88%AA%E5%9B%BE.png)](https://github.com/mafanwei/ReaderView/blob/master/Demo%E8%A7%86%E9%A2%91.mp4)
+这是我用这个类做出来的demo，这个类只有中间文字部分，上面的章节名和右下角的进度，需要你自己来做
+<img src="https://github.com/mafanwei/ReaderView/blob/master/Demo%E6%88%AA%E5%9B%BE.png" width=375 alt="效果图"/>
+
+
