@@ -32,9 +32,11 @@ android:layout_height="wrap_content" />
 2. findviewbyid
 3. 设置文本readerView.setTxt();//这里是String类型或者String[] 类型，String[] 类型表示已经分好段。
 3. 在代码中注册接口
-        readerView.setShowAtListener(new ReaderView.ShowAtListener() {
+```
+readerView.setShowAtListener(new ReaderView.ShowAtListener() {
 @Override
 public void showAt(int pos) {
 }
 });
+```
  pos是显示到了第多少个字
