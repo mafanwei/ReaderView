@@ -15,4 +15,13 @@
 这是我用这个类做出来的demo，这个类只有中间文字部分，上面的章节名和右下角的进度，需要你自己来做
 <img src="https://github.com/mafanwei/ReaderView/blob/master/Demo%E6%88%AA%E5%9B%BE.png" width=375 alt="效果图"/>
 
-
+# 使用说明
+下载ReaderView到你的项目中
+在xml声明
+/*** <com.mafanwei.ReaderView
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:id="@+id/reader"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />***/
