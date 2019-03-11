@@ -16,6 +16,7 @@
 <img src="https://github.com/mafanwei/ReaderView/blob/master/Demo%E6%88%AA%E5%9B%BE.png" width=375 alt="效果图"/>
 
 # 使用说明
+## 简易使用
 下载ReaderView到你的项目中
 
 1. 在xml声明
@@ -40,4 +41,11 @@ public void showAt(int pos) {
 }
 });
 ```
- pos是显示到了第多少个字
+ pos是页面显示到最后显示了文本的第几个字
+ 
+ 例如，文本内容是1000个字，可能pos就是217，就是代表了显示到了第217个字。
+ ## 其余api
+    private Paint paint;//set get
+    private int rowHeight;//get
+    private int rowSpan;//set get
+ 
