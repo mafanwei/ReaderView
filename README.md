@@ -18,10 +18,10 @@
 # 使用说明
 下载ReaderView到你的项目中
 在xml声明
-“”“ <com.mafanwei.ReaderView
+``` <com.mafanwei.ReaderView
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:id="@+id/reader"
         android:layout_weight="1"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />”“”
+        android:layout_height="wrap_content" />```
