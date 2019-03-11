@@ -19,21 +19,21 @@
 下载ReaderView到你的项目中
 
 1. 在xml声明
-        <com.mafanwei.ReaderView
+        ```<com.mafanwei.ReaderView
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:id="@+id/reader"
         android:layout_weight="1"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content" />```
 ***注意，在这里需要换成你自己的包名***
 2. findviewbyid
 3. 设置文本readerView.setTxt();//这里是String类型或者String[] 类型，String[] 类型表示已经分好段。
 3. 在代码中注册接口
-        readerView.setShowAtListener(new ReaderView.ShowAtListener() {
+        ```readerView.setShowAtListener(new ReaderView.ShowAtListener() {
             @Override
             public void showAt(int pos) {
                 
             }
-        });
+        });```
  pos是显示到了第多少个字
