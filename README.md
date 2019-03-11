@@ -13,4 +13,4 @@
 
 # 效果图
 这是我用这个类做出来的demo
-[![观看视频](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://github.com/mafanwei/ReaderView/blob/master/Demo%E8%A7%86%E9%A2%91.mp4)
+[![观看视频](https://github.com/mafanwei/ReaderView/blob/master/Demo%E6%88%AA%E5%9B%BE.png)](https://github.com/mafanwei/ReaderView/blob/master/Demo%E8%A7%86%E9%A2%91.mp4)
