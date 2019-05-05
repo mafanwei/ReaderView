@@ -32,7 +32,7 @@ android:layout_height="wrap_content" />
 ```
 **注意，在这里需要换成你自己的包名**
 
-2. findviewbyid
+2. findViewById
 3. 设置文本readerView.setTxt();//这里是String类型或者String[] 类型，String[] 类型表示已经分好段。
 3. 在代码中注册接口
 ```
